@@ -1,0 +1,86 @@
+
+h1 {
+  color: orange;
+  text-align: center;
+	font-size: 50px;
+	outline: 10px inset 
+}
+
+/*comment*/
+
+h2 {
+  color: white;
+  text-align: center;
+	font-size: 30px;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: white;
+	font-size: 30px; 
+}
+
+marquee {
+	font-size: 20px; 
+	color: white;
+}
+
+img {
+  width: 250px;
+  float: left;
+  margin-right: 20px;
+}
+
+video {
+  width: 50%;
+display: block;
+margin: 0 auto;
+}
+
+/*comment*/
+
+body {background-color: lightblue;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.paragraph {
+  color: white;
+  text-align: left;
+	outline-style: dotted;
+}
+
+.paragraphtwo {
+  color: white;
+  text-align: left;
+
+}
+
+nav{
+  color: white;
+  text-align: center;
+	outline-style: solid;
+}
+
+/*comment*/
+
+.footer {
+  color: orange;
+  text-align: center;
+}
+
+ul{
+  position:relative;
+  display: inline-block;  
+  list-style: none;
+  width:100%;
+  text-align: center;
+  margin: auto;
+  padding: 0;
+  color: white;
+	font-size: 30px; 
+}
