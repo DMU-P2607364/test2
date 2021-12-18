@@ -40,7 +40,8 @@ img {
   margin-right: 20px;
 }
 
-/*Here the margin-right is used to space the image away from the border whilst the float left code is applied to place it left of the paragraphs. The width is also adjusted to 250px*/
+/*Here the margin-right is used to space the image away from the border whilst the float left code is applied to place it left of the paragraphs. 
+The width is also adjusted to 250px*/
 
 video {
   width: 50%;
@@ -48,7 +49,8 @@ display: block;
 margin: 0 auto;
 }
 
-/*comment*/
+/*The code here adjusts the video asset, applying changes to the width size. "Display: block" is used to 
+create space and prevent other elements from be directly next to the block (the video) */
 
 
 
@@ -57,7 +59,8 @@ body {background-color: lightblue;
   margin-right: 40px;
 }
 
-/*comment*/
+/*Code applied affects the whole whole page layout as "body" is used. "Margin-Left(or Right): " ensures that there is a distance of 40 pixels between the 
+elements on the page and the border. */
 
 .paragraph {
   color: white;
@@ -65,7 +68,7 @@ body {background-color: lightblue;
 	outline-style: dotted;
 }
 
-/*comment*/
+
 
 .paragraphtwo {
   color: white;
@@ -73,16 +76,14 @@ body {background-color: lightblue;
 
 }
 
-/*comment*/
 
 nav{
   color: white;
   text-align: center;
 	outline-style: solid;
 }
-/*The nav tag here is added an outline as well as a white colour. The link is also centered in the page.*/
+/*The nav tag here is added, an outline as well, in a white colour. The link is also centered in the page.*/
 
-/*comment*/
 
 .footer {
   color: orange;
@@ -100,3 +101,5 @@ ul{
   color: white;
 	font-size: 30px; 
 }
+
+/*Comment.*/
