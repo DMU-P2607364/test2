@@ -1,3 +1,6 @@
+/*All of the same assets from the html code is linked into this file due to the "" code. This means effects can be added to each of the linked assets.*/
+
+
 
 h1 {
   color: orange;
@@ -6,7 +9,9 @@ h1 {
 	outline: 10px inset 
 }
 
-/*comment*/
+/*Here the coding is used to adjust the colour, center the text in the page and add an outline to my first heading. 
+Adding inset to my css adds an inner bevel effect to the border (outline) 
+The font size has also been adjusted here to 50px*/
 
 h2 {
   color: white;
@@ -35,6 +40,8 @@ img {
   margin-right: 20px;
 }
 
+/*Here the margin-right is used to space the image away from the border whilst the float left code is applied to place it left of the paragraphs. The width is also adjusted to 250px*/
+
 video {
   width: 50%;
 display: block;
@@ -43,10 +50,14 @@ margin: 0 auto;
 
 /*comment*/
 
+
+
 body {background-color: lightblue;
   margin-left: 40px;
   margin-right: 40px;
 }
+
+/*comment*/
 
 .paragraph {
   color: white;
@@ -54,17 +65,22 @@ body {background-color: lightblue;
 	outline-style: dotted;
 }
 
+/*comment*/
+
 .paragraphtwo {
   color: white;
   text-align: left;
 
 }
 
+/*comment*/
+
 nav{
   color: white;
   text-align: center;
 	outline-style: solid;
 }
+/*The nav tag here is added an outline as well as a white colour. The link is also centered in the page.*/
 
 /*comment*/
 
