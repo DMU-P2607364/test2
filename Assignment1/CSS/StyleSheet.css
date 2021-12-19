@@ -102,4 +102,7 @@ ul{
 	font-size: 30px; 
 }
 
-/*Comment.*/
+/*Within the first line of code under the ul element is "position:relative;" This adjusts the location of the menu, ensuring it adapts with the rest of the layout of the page. Above,
+the display has been set to "inline-block". This allows the size of the width or height to be changed, however the width here has just been set to 100%, 
+with the font size being set to 30px
+*/
